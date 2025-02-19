@@ -1,10 +1,5 @@
 ## Ola, sou Pietro 👋
 
-<!--
-**pietroKaike/PietroKaike** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
 - 🔭 Atualmente estou trabalhando em CETEFE, empresa de processos jurídicos.
 - 🌱 Atualmente estou aprendendo, HTML, CSS, C#, JAVASCRIPT e BANCO DE DADOS
 - 👯 Procuro colaborar em projetos com foco em inclusão e acessibilidade
